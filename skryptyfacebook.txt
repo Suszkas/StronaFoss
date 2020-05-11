@@ -1,0 +1,25 @@
+Do body:
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v7.0"></script>
+
+Posty:
+
+<div class="fb-post" data-href="https://www.facebook.com/FOSSmotorsport/posts/2780629888642621" data-show-text="true" data-width=""><blockquote cite="https://developers.facebook.com/FOSSmotorsport/posts/2780629888642621" class="fb-xfbml-parse-ignore">Opublikowany przez <a href="https://www.facebook.com/FOSSmotorsport/">FOSS motorsport</a>&nbsp;<a href="https://developers.facebook.com/FOSSmotorsport/posts/2780629888642621">Wtorek, 21 stycznia 2020</a></blockquote></div>
+<div class="fb-post" data-href="https://www.facebook.com/FOSSmotorsport/posts/2931877180184557" data-show-text="true" data-width=""><blockquote cite="https://developers.facebook.com/FOSSmotorsport/posts/2931877180184557" class="fb-xfbml-parse-ignore">Opublikowany przez <a href="https://www.facebook.com/FOSSmotorsport/">FOSS motorsport</a>&nbsp;<a href="https://developers.facebook.com/FOSSmotorsport/posts/2931877180184557">Wtorek, 31 marca 2020</a></blockquote></div>
+<div class="fb-post" data-href="https://www.facebook.com/FOSSmotorsport/posts/2755839221121688" data-show-text="true" data-width=""><blockquote cite="https://developers.facebook.com/FOSSmotorsport/posts/2755839221121688" class="fb-xfbml-parse-ignore">Opublikowany przez <a href="https://www.facebook.com/FOSSmotorsport/">FOSS motorsport</a>&nbsp;<a href="https://developers.facebook.com/FOSSmotorsport/posts/2755839221121688">Czwartek, 9 stycznia 2020</a></blockquote></div>
+
+
+Orły motoryzacji:
+
+https://www.orlymotoryzacji.pl/profile-1054167-foss-motorsport
+
+
+Kolor:
+
+15 15 15
+
+
+Lokalizacja:
+
+https://www.google.pl/maps/place/FOSS+motorsport/@52.1818592,20.885328,1093m/data=!3m1!1e3!4m5!3m4!1s0x471936be66d337cb:0x6a514385bd89a5dc!8m2!3d52.1822731!4d20.8884638
