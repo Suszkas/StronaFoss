@@ -1,3 +1,8 @@
 .background-black {
-    background: rgb(15, 15, 15) !important;
+    background: rgb(17, 17, 17) !important;
+}
+
+.logo {
+    background: url(../img/logo1.png) no-repeat left top !important;
+    width: 400px !important;
 }
