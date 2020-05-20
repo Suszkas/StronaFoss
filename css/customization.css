@@ -1,8 +1,39 @@
 .background-black {
     background: rgb(17, 17, 17) !important;
-}
+    /* background: #a0a8a1 !important; */
+  }
 
 .logo {
     background: url(../img/logo1.png) no-repeat left top !important;
     width: 400px !important;
 }
+.probootstrap-custom-link {
+    color: rgb(243, 242, 241);
+}
+.img-responsive{
+    
+    border: 1px solid #333333;
+    /* border-radius: 100%;
+    /* box-shadow: #3d3939; */
+    box-sizing: border-box;    
+}
+.probootstrap-section .text h3{ 
+    color: white !important;
+    
+}
+.probootstrap-section .image{
+    height: 150px;
+    
+    
+}
+/* <style>
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,700&family=Vesper+Libre:wght@700&display=swap');
+</style> */
+p{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Vesper Libre', serif;
+}
+.probootstrap-section{
+    background: rgb(17, 17, 17); 
+   }
+
